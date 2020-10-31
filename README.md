@@ -3,7 +3,7 @@
  [Prolog, Scala, Ruby, and Clojure](#download)
 
 ### A1
-[Readme]()
+[Readme](https://github.com/TANEJS4/CS3MI3/tree/main/a1)
 ### H1
 To run test cases, invoke `amm h1_test.sc`
 
